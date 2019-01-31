@@ -1,6 +1,7 @@
 ## Description of Changes
 
 Describe the big picture of your changes here to communicate to reviewers & the team at large. Be sure to add pictures or .gifs here if you think they might be helpful! 
+</br>
 
 ## Risk Analysis/Premortem
 
@@ -10,6 +11,7 @@ These are the top potential failure modes for my work with a brief description o
 2.
 3.
 4.
+</br>
 
 ## Paper Trail
 
@@ -17,6 +19,7 @@ These are the top potential failure modes for my work with a brief description o
 ------------ | -------------
 Jira Link *(in "Up for PR")* | [Jira](Link)
 Design Document *(approved)* | [Design Doc](Link) or N/A
+</br>
 
 ## Checklist
 *Check boxes after opening PR*
@@ -24,7 +27,6 @@ Design Document *(approved)* | [Design Doc](Link) or N/A
 - [ ] :scroll: This PR is stylin' [Canvas Style Guide](https://sites.google.com/a/canvas.technology/engineering/software-development/coding-style)
 - [ ] :speech_balloon: This PR Title is a simple one line brief on changes without "/fix" or "/feature" included
 - [ ] :flags: This PR has appropriate labels applied
-</br>
 </br>
 </br>
 
