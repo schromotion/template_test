@@ -1,6 +1,6 @@
 ## Description of Changes
 
-*Describe the big picture of your changes here to communicate to reviewers & the team at large. Be sure to add pictures or .gifs here if you think they might be helpful!*
+*Describe the big picture of your changes here to communicate to reviewers & the team at large. Be sure to add pictures or .gifs here if you think they might be helpful!* 
 
 ## Risk Analysis/Premortem
 
