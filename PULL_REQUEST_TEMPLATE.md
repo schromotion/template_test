@@ -1,27 +1,32 @@
-## Proposed changes
+## Description of changes
 
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+Describe the big picture of your changes here to communicate to reviewers & the team at large. Be sure to add pictures or .gifs here if you think they might be helpful! 
 
-## Types of changes
+## Risk Analysis/Premortem
 
-What types of changes does your code introduce to Appium?
-_Put an `x` in the boxes that apply_
+These are the top potential failure modes for my work with a brief description of test added or additional work to mitigate the risks. 
 
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+1. 
+2.
+3.
+4.
+
+
+## Paper Trail
+
+**Document** | **Link or Detail**
+------------ | -------------
+Jira Link *(in "Up for PR")* | *Link*
+Design Document | [Design Doc](Link) or N/A
 
 ## Checklist
 
-_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
+_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask Kellen! This is simply a reminder of what reviewers will be looking for._
 
-- [ ] I have read the [CONTRIBUTING](https://github.com/appium/appium/blob/master/CONTRIBUTING.md) doc
-- [ ] I have signed the [CLA](https://cla.js.foundation/appium/appium)
-- [ ] Lint and unit tests pass locally with my changes
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] I have added necessary documentation (if appropriate)
-- [ ] Any dependent changes have been merged and published in downstream modules
-
-## Further comments
-
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+- [ ] :scroll: My work is inline with the [Canvas Style Guide](https://sites.google.com/a/canvas.technology/engineering/software-development/coding-style)
+- [ ] :shower: Lint and unit tests pass locally with my changes
+- [ ] :speech_balloon: PR Title is a simple one line brief on changes without "/fix" or "/feature" included
+- [ ] :flags: Appropriate tags have been applied to my PR
+- [ ] :mortar_board: I have added tests that prove my fix is effective or that my feature works. And explained my reasoning and tests in the Pre-Mortem
+- [ ] :mailbox_with_mail: Paper Trail section is complete
+- [ ] :chains: Any dependent changes have been merged and published in downstream modules
