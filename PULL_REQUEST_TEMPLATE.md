@@ -24,9 +24,9 @@ Design Document *(approved)* | [Design Doc](Link) or N/A
 - [ ] :scroll: This PR is stylin' [Canvas Style Guide](https://sites.google.com/a/canvas.technology/engineering/software-development/coding-style)
 - [ ] :speech_balloon: This PR Title is a simple one line brief on changes without "/fix" or "/feature" included
 - [ ] :flags: This PR has appropriate labels applied
-  
-  
-  
+&NewLine;
+&NewLine;
+&NewLine;
 >“The Three Laws of Robotics:  
 >1: A robot may not injure a human being or, through inaction, allow a human being to come to harm;  
 >2: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law;  
