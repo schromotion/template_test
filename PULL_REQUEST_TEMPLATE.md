@@ -16,8 +16,8 @@ These are the top potential failure modes for my work with a brief description o
 
 **Document** | **Link or Detail**
 ------------ | -------------
-Jira Link *(in "Up for PR")* | *Link*
-Design Document | [Design Doc](Link) or N/A
+Jira Link *(in "Up for PR")* | [Jira](Link)
+Design Document *(approved)* | [Design Doc](Link) or N/A
 
 ## Checklist
 
